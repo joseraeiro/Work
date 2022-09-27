@@ -11,10 +11,10 @@ A simple script to use your Virus Total API (get one free here: https://support.
 
 Please bear in my mind that it requires vt-py to work. https://virustotal.github.io/vt-py/ and how to install https://virustotal.github.io/vt-py/howtoinstall.html
 
-Other than that, please enjoy and remember that any alteration you make to it you must license it in the same manner that I did.
+Other than that, please enjoy and remember that any alteration you make to it you must license it in the same manner that I did. Keep it open to others. Share the love!
 
 2 - Rules created in Wazuh while trying to reduce the Sysmon false positives in a Domain Controller and other Windows Servers.
 
-File: Rules_Sysmon.xml
+File: rules_sysmon_comExcepcoes.xml
 
 You can just copy paste into a new rules file inside Wazuh!
