@@ -23,7 +23,4 @@ for i in res:
         print(i)
         analysis = client.scan_file(f, wait_for_completion=True)
         result =  analysis.to_dict() 
-        print("Number of malicious matches")
-	    print(result['malicious'])
-        print("Number of undetected matches")
-	    print(result['undetected'])
+        print(result)
