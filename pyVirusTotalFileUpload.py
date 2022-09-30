@@ -28,4 +28,4 @@ for i in res:
                 if isinstance(v, dict):
                     seek_keys(v, key_list)
 
-    (seek_keys(result, filtered_list))
+    seek_keys(result, filtered_list)
