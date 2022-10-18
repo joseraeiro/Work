@@ -1,7 +1,6 @@
 # Work
-Projects performed while working on Next-IT
 
-This is just a repository for all the projects that I did while working at my current job as a Security Engineer
+This is just a repository for some of the projects that I did while working at my current job as a Security Engineer
 
 # Highligts
 
